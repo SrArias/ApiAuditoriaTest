@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "oabu7WY5y9yNJS6SI9MYoPd9VCOBiO2IUOEp/u2adYnNjh30G3dBU8nv1rKlMym+OrKMoQLuJX4JFBk/MRoXmg==",
+  "success": true,
+  "projectFilePath": "E:\\ApiAuditoria\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j-mej\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\nuget.common\\6.9.1\\nuget.common.6.9.1.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\nuget.configuration\\6.9.1\\nuget.configuration.6.9.1.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\nuget.frameworks\\6.9.1\\nuget.frameworks.6.9.1.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
